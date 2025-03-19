@@ -1,0 +1,22 @@
+Microsoft Windows [Versión 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. Reservados todos los derechos.
+
+C:\Users\estudiante>python --version
+Python 3.7.2
+
+C:\Users\estudiante>python
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit
+(Intel)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Hola desde python")
+Hola desde python
+>>> print(5+3)
+8
+>>> 8+3
+11
+>>> variable=5
+>>> print (variable)
+5
+>>> print (variable+9)
+14
+>>>
