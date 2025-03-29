@@ -26,7 +26,7 @@ class CuentaBancaria:
         print(f'Titular de la cuenta: {self.titular}')
         print(f'Operación Realizada: {self.tipo}')
         print(f'Saldo : {self.saldo}')
-        print(f'Saldo : {self.movimientos}')
+        #print(f'Saldo : {self.movimientos}')
 
     def retirar(self, monto):
         # Completar lo siguiente: 
@@ -50,7 +50,7 @@ class CuentaBancaria:
             print(f'Titular de la cuenta: {self.titular}')
             print(f'Operación Realizada: {self.tipo}')
             print(f'Saldo : {self.saldo}')
-            print(f'Saldo : {self.movimientos}')
+            #print(f'Saldo : {self.movimientos}')
 
     def mostrar_saldo(self):
         # Completar lo siguiente: 
